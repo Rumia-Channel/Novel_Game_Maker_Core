@@ -1,1 +1,1 @@
-"# Novel_Game_Maker_Core" 
+# Novel_Game_Maker_Core
